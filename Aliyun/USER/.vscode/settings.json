@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "basetime_init.h": "c"
+    }
+}
